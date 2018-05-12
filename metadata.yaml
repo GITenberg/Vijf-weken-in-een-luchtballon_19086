@@ -20,6 +20,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Verne
     - http://pt.wikipedia.org/wiki/Júlio_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19086#Vijf-weken-in-een-luchtballon
 gutenberg_issued: '2006-08-20'
 gutenberg_type: Text
 identifiers:
